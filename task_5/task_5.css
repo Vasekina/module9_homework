@@ -1,0 +1,8 @@
+.btn {
+background-color: hsl(240, 54%, 47%);
+border: 1px solid #c6c4f4;
+border-radius: 4px;
+color: white;
+padding: 10px;
+font-family: serif;
+}
